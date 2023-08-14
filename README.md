@@ -1,5 +1,5 @@
 <h1 align="center">Nice to meet you! I am England Pelenio</h1>
-<h3 align="center">A Frontend developer from Canada</h3>
+<h3 align="center">Student-Athlete that loves bringing front-end designs to life 😄 </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kujiama&label=Profile%20views&color=7b06db&style=plastic" alt="kujiama" /> </p>
 
