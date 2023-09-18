@@ -5,7 +5,7 @@
 
  <h4 align="center"> 👨‍💻 Most of my projects are available at https://england-pelenio.vercel.app</h4>
 
- <h4 align="center">  📫 How to reach me at englandpelenio17@gmail.com
+ <h4 align="center">  📫 reach me at englandpelenio17@gmail.com
 
  <h4 align="center"> ⚡ I am studying currently at George Brown College </h4>
 
