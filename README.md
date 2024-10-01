@@ -1,18 +1,21 @@
-<h1 align="center">Nice to meet you! I am England Pelenio</h1>
-<h3 align="center">Student-Athlete that loves bringing front-end designs to life 😄 </h3>
+# Raul England Pelenio
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kujiama&label=Profile%20views&color=7b06db&style=plastic" alt="kujiama" /> </p>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/england-pelenio-812269219//) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:englandpelenio17@gmail.com) [![Github](https://img.shields.io/github/followers/Kujiama?label=Follow&style=social)](https://github.com/Kujiama)
 
- <h4 align="center"> 👨‍💻 Most of my projects are available at https://england-pelenio.vercel.app</h4>
 
- <h4 align="center">  📫 reach me at englandpelenio17@gmail.com
+- 🤔 I’m currently Learning Data Analysis and will transition to Data Science
+- 📫 How to reach me: englandpelenio17@gmail.com
 
- <h4 align="center"> ⚡ I am studying currently at George Brown College </h4>
+### 🖥 Skills
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://codepen.io/kujiama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kujiama" height="30" width="70" /></a>
-</p>
+- Data Analysis
+- Data Cleaning
+- Data Visualization
+- Data Manipulation
+### ⚙️ Tech Stack
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a> </p>
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual-Studio-Code&color=353535)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kujiama&show_icons=true&locale=en&layout=compact" alt="Kujiama" />
+</div>
